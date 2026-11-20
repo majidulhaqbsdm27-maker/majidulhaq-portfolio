@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your real URL after deployment
+Sitemap: https://YOUR-USERNAME.github.io/majid-portfolio/sitemap.xml
