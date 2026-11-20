@@ -163,3 +163,6 @@ footer a{color:#d6ebe7}footer h2{font-size:1.25rem;color:#fff;margin-bottom:6px}
 .role{text-wrap:balance}
 /* About: photo left, details right (stacked order kept on phones) */
 @media(min-width:701px){.about{grid-template-columns:.8fr 1.2fr}.portrait{order:-1;margin:0 22px 22px 0}}
+/* header logo */
+.logo img{height:40px;width:auto;max-width:none}
+@media(max-width:520px){.logo img{height:34px}}
